@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PostLands_Domain/1.0.0": {
+        "runtime": {
+          "PostLands_Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostLands_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

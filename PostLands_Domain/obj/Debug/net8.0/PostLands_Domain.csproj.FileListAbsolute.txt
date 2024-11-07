@@ -1,0 +1,11 @@
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\bin\Debug\net8.0\PostLands_Domain.deps.json
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\bin\Debug\net8.0\PostLands_Domain.dll
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\bin\Debug\net8.0\PostLands_Domain.pdb
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\obj\Debug\net8.0\PostLands_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\obj\Debug\net8.0\PostLands_Domain.AssemblyInfoInputs.cache
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\obj\Debug\net8.0\PostLands_Domain.AssemblyInfo.cs
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\obj\Debug\net8.0\PostLands_Domain.csproj.CoreCompileInputs.cache
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\obj\Debug\net8.0\PostLands_Domain.dll
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\obj\Debug\net8.0\refint\PostLands_Domain.dll
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\obj\Debug\net8.0\PostLands_Domain.pdb
+D:\ali\الخريجين\PostLands_Domain\PostLands_Domain\obj\Debug\net8.0\ref\PostLands_Domain.dll

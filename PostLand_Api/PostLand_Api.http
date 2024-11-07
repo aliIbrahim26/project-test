@@ -1,0 +1,6 @@
+@PostLand_Api_HostAddress = http://localhost:5025
+
+GET {{PostLand_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
